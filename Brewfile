@@ -41,6 +41,7 @@ brew "planetscale/tap/pscale"
 cask "alfred"
 cask "biscuit"
 cask "clipy"
+cask "cron"
 cask "docker"
 cask "eul"
 cask "fantastical"
@@ -57,10 +58,12 @@ cask "noxappplayer"
 cask "owasp-zap"
 cask "popclip"
 cask "postman"
+cask "remnote"
 cask "slack"
 cask "spotify"
 cask "utm"
 cask "visual-studio-code"
+mas "Focus To-Do", id: 1258530160
 mas "GarageBand", id: 682658836
 mas "GoodNotes", id: 1444383602
 mas "iMovie", id: 408981434
